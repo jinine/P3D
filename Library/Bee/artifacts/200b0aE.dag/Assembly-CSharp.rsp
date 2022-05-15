@@ -348,6 +348,7 @@
 "Assets/Scripts/CameraMap.cs"
 "Assets/Scripts/CameraMovement.cs"
 "Assets/Scripts/PlayerMovement.cs"
+"Assets/_Heathen Engineering/Samples/UX Examples/Flat Icons [Free]/ToggleSetAnimatorBoolean.cs"
 -langversion:9.0
 
 /deterministic
