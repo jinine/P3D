@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CameraMap.cs"
 "Assets/Scripts/CameraMovement.cs"
+"Assets/Scripts/CameraSwap.cs"
 "Assets/Scripts/MenuEnum.cs"
 "Assets/Scripts/MenuManager.cs"
 "Assets/Scripts/PlayerMovement.cs"
