@@ -301,6 +301,7 @@
 -r:"Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.ref.dll"
+"Assets/Blink/Tools/UIUtilities/Resources/EditorData/UIUtilitiesEditorData.cs"
 "Assets/Scripts/CameraMap.cs"
 "Assets/Scripts/CameraMovement.cs"
 "Assets/Scripts/CameraSwap.cs"

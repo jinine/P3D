@@ -345,6 +345,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Blink/Tools/UIUtilities/Resources/EditorData/UIUtilitiesEditorData.cs"
 "Assets/Scripts/CameraMap.cs"
 "Assets/Scripts/CameraMovement.cs"
 "Assets/Scripts/CameraSwap.cs"
