@@ -6,6 +6,7 @@ ScriptsOnlyBuild:
     - CameraMovement
     - CameraSwap
     - LightingScript
+    - OrbitalCameraController
     - PlayerMovement
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -180,6 +181,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7724}
     - Class: 114
       Script: {instanceID: 8042}
+    - Class: 114
+      Script: {instanceID: 50066}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -267,7 +270,7 @@ ScriptsOnlyBuild:
     className: UnityOnMouseExitMessageListener
   - hash:
       serializedVersion: 2
-      Hash: f963969dc9db77a8df7ccf01ddafdd82
+      Hash: 18cf430ec7c0a8c6901fb7af080ff5e8
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CameraSwap
@@ -1015,6 +1018,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 7e45755ebf6ad08dfd551049d2db04b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OrbitalCameraController
   platform: 2
   scenePathNames:
   - Assets/Scenes/Simple_UI.unity

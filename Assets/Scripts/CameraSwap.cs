@@ -8,6 +8,7 @@ public class CameraSwap : MonoBehaviour
     public GameObject overheadCameraHolder;
     public Camera firstPersonCamera;
     public Camera overheadCamera;
+    public GameObject player;
 
 
    public void activate(){
@@ -23,6 +24,7 @@ public class CameraSwap : MonoBehaviour
         firsPersonCameraHolder.SetActive (false);
         overheadCamera.enabled = true;
         overheadCameraHolder.SetActive (true);
+        player.SetActive (false);
     }
     
     public void ShowFirstPersonView() {
@@ -30,5 +32,6 @@ public class CameraSwap : MonoBehaviour
         firsPersonCameraHolder.SetActive (true);
         overheadCamera.enabled = false;
         overheadCameraHolder.SetActive (false);
+        player.SetActive (true);
     }
 }
